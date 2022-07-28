@@ -3,7 +3,7 @@ body {
   display: block;
   margin-top: 10px;
 }
-a {
+a href {
   text-align: center;
 }
 h2 {
@@ -12,6 +12,6 @@ h2 {
 p {
   text-align: center;
 }
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
