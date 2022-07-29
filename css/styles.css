@@ -20,5 +20,8 @@ footer a {
 }
 
 .croissant-photo {
-  text-align: center;
+  margin: 10px;
+  border-radius: 10px;
+  max-width: 100%;
+  display: block;
 }
