@@ -12,17 +12,13 @@ p {
 h1 {
   text-align: center;
 }
-footer  {
+footer {
   text-align: center;
 }
-footer a{
-    margin: 0 10px;
-    
-
-}  
-
-  
+footer a {
+  margin: 0 10px;
 }
-img {
+
+.croissant-photo {
   text-align: center;
 }
